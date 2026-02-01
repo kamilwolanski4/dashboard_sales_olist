@@ -13,9 +13,9 @@
 
 ## Tools
 
-### SQL – czyszczenie danych, agregacje, łączenie tabel
+#### SQL – czyszczenie danych, agregacje, łączenie tabel
 
-### Power BI – model danych, miary DAX, dashboard analityczny
+#### Power BI – model danych, miary DAX, dashboard analityczny
 
 ## Data overview
 
