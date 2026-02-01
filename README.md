@@ -38,17 +38,17 @@ Zmiany MoM charakteryzują się dużą zmiennością, co wskazuje na brak trwał
 
 Średnia wartość zamówienia: R$ 137.
 
-Wniosek: dalszy wzrost nie wynika już z wolumenu sprzedaży, lecz wymaga poprawy struktury przychodów i retencji klientów.
+##### Wniosek: dalszy wzrost nie wynika już z wolumenu sprzedaży, lecz wymaga poprawy struktury przychodów i retencji klientów.
 
-Customers
+### Customers
 
 Odsetek klientów powracających: 3.12%.
 
 Przychód silnie skoncentrowany geograficznie (SP, RJ, MG odpowiadają za ~63% revenue).
 
-Wniosek: model sprzedaży opiera się głównie na klientach jednorazowych, co ogranicza długoterminową wartość klienta (LTV).
+##### Wniosek: model sprzedaży opiera się głównie na klientach jednorazowych, co ogranicza długoterminową wartość klienta (LTV).
 
-Delivery & logistics
+### Delivery & logistics
 
 Średni czas dostawy: 12.5 dnia.
 
@@ -56,9 +56,9 @@ Opóźnione zamówienia: 6.62%.
 
 Istotne różnice kosztu dostawy między kategoriami i regionami (price/freight ratio do ~54%).
 
-Wniosek: logistyka jest istotnym czynnikiem kosztowym i potencjalnym ograniczeniem skalowalności.
+##### Wniosek: logistyka jest istotnym czynnikiem kosztowym i potencjalnym ograniczeniem skalowalności.
 
-Reviews & satisfaction
+### Reviews & satisfaction
 
 Średnia ocena: 4.16.
 
@@ -66,25 +66,25 @@ Reviews & satisfaction
 
 Niższe oceny korelują z dłuższym czasem dostawy.
 
-Wniosek: jakość dostawy ma większy wpływ na ocenę niż sam produkt.
+##### Wniosek: jakość dostawy ma większy wpływ na ocenę niż sam produkt.
 
-Sellers
+### Sellers
 
 Przychód jest skoncentrowany wśród niewielkiej liczby sprzedawców.
 
 Część sprzedawców generuje wysokie revenue przy jednocześnie długim czasie dostawy lub wyższym cancel rate.
 
-Wniosek: brak oceny sprzedawców w oparciu o metryki jakościowe zwiększa ryzyko pogorszenia CX.
+##### Wniosek: brak oceny sprzedawców w oparciu o metryki jakościowe zwiększa ryzyko pogorszenia CX.
 
-Products
+### Products
 
 Brak silnej korelacji między liczbą produktów a generowanym przychodem.
 
 Przychody generowane są głównie przez wąską grupę produktów.
 
-Wniosek: rozszerzanie asortymentu nie przekłada się liniowo na wzrost revenue.
+##### Wniosek: rozszerzanie asortymentu nie przekłada się liniowo na wzrost revenue.
 
-Business recommendations
+## Business recommendations
 
 Wprowadzenie działań retencyjnych (segmentacja klientów, programy powrotowe).
 
