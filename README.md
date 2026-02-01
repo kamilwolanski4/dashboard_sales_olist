@@ -1,5 +1,11 @@
 # Olist sales Data Analysis (Power BI, SQL)
 
+## Dashboard sprzedaży e-commerce (Power BI)
+
+Interaktywny dashboard Power BI oparty na danych e-commerce, służący do analizy wyników sprzedaży, zachowań klientów, efektywności logistyki, pracy sprzedawców oraz struktury produktów.
+
+Projekt koncentruje się na wyciąganiu wniosków biznesowych i rekomendacji decyzyjnych, a nie wyłącznie na raportowaniu wskaźników KPI.
+
 ## Analiza danych olist w celu oceny:
 
 - trendów sprzedażowych i stabilności wzrostu,
