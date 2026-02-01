@@ -32,7 +32,7 @@ Produkty: ~33K
 ### Dashboard preview
 
 Full dashboard screenshots:  
-[View dashboard screenshots](DASHBOARD.md)
+[View dashboard](DASHBOARD.md)
 
 
 ### Sales & growth
