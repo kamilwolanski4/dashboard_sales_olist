@@ -1,4 +1,4 @@
-E-commerce Data Analysis (Power BI, SQL)
+* E-commerce Data Analysis (Power BI, SQL)
 Project objective
 
 Analiza danych e-commerce w celu oceny:
