@@ -86,10 +86,10 @@ Przychody generowane są głównie przez wąską grupę produktów.
 
 ## Business recommendations
 
-Wprowadzenie działań retencyjnych (segmentacja klientów, programy powrotowe).
+- Wprowadzenie działań retencyjnych (segmentacja klientów, programy powrotowe).
 
-Optymalizacja logistyki dla regionów o najwyższym wolumenie sprzedaży.
+- Optymalizacja logistyki dla regionów o najwyższym wolumenie sprzedaży.
 
-Ocena sprzedawców z uwzględnieniem czasu dostawy i satysfakcji klientów.
+- Ocena sprzedawców z uwzględnieniem czasu dostawy i satysfakcji klientów.
 
-Skupienie oferty na produktach o wysokiej rotacji i niskim koszcie dostawy.
+- Skupienie oferty na produktach o wysokiej rotacji i niskim koszcie dostawy.
